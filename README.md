@@ -50,3 +50,5 @@ For this app, you'll design a custom volume control knob view. The resulting vie
 
 * Add getters and setters for all your attributes to allow for your view to be created programatically in the activity class
 * Experiment with Canvas to improve the look of your view
+
+
